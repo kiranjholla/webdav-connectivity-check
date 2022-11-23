@@ -1,4 +1,4 @@
-const prompt = require('prompt');
+import prompt from 'prompt'
 
 prompt
   .get({
